@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
         "json-server": "^0.16.3",
         "typescript": "^4.2.4"
     }
-    //Ex: $ npm install @types/_____ -D
+    //Ex: $ yarn add @types/_____ -D
 ```
 </details>
 
@@ -45,14 +45,14 @@ $ git clone https://github.com/jooaodias/podcastrnext.git
 $ cd podcastrnext
 
 # Instale as dependências
-$ npm install
+$ yarn install
 
 # Execute o script "dev"
-$ npm run dev
+$ yarn run dev
 
 # O projeto inciará na porta: 3000 - acesse http://localhost:3000
 
 # Execute o script "server" para rodar o JSON-SERVER na sua máquina
-$ npm run server
+$ yarn run server
 
 ```
