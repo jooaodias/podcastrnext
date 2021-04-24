@@ -1,6 +1,5 @@
-<h1 align="center">
-    
-</h1>
+## Projeto desenvolvido durante o evento NLW 5 -> Next Level Week onde o objetivo era fazer um projeto com o Next.js. 
+
 ## Tecnologias 🚀
 <!--ts-->
   * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
