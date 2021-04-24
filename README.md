@@ -2,17 +2,17 @@
     
 </h1>
 ## Tecnologias 🚀
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-<br>
-- HTML<br>
-- CSS<br>
-- SASS<br>
-- TYPESCRIPT<br>
-- REACT JS<br>
-- NEXT JS<br>
-- NODE JS<br>
-
+<!--ts-->
+  * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+  * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+  * [SASS](https://sass-lang.com/)
+  * [TYPESCRIPT](https://www.typescriptlang.org/)
+  * [REACT JS](https://pt-br.reactjs.org/)
+  * [NEXT JS](https://nextjs.org/)
+  * [NODE JS](https://nodejs.org/en/)
+<!--te-->
 #### Na sua maquina:
+
 <details>
     <summary>Dependências</summary>
 
@@ -35,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     }
     //Ex: $ yarn add @types/_____ -D
 ```
+
 </details>
 
 ```bash
